@@ -4,13 +4,13 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class Tag : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler {
+public class DragTag : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler {
 
 	private Image image;
 	private Vector3 position;
 
 	private void Awake()
-	{
+	{	//JsonConvert.DeserializeObject(); //json Decode C#
 		image = GetComponent<Image>();
 		position = transform.position;
 	}

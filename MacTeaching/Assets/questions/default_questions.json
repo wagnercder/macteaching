@@ -1,0 +1,116 @@
+{
+    "id": 0,
+    "teacher": "MacTeaching",
+    "turma": "standart",
+    "recorde": 0,
+    "questions": [
+        {
+            "question": "Procurei na tela inicial a opção de me cadastrar no site, mas  não encontro o cadastro.",
+            "answers": ["cade"]
+        },
+        {
+            "question": "Não gostei desse produto, vou voltar para a tela anterior para escolher outro... Ué cadê a opção de voltar?",
+            "answers": ["cade"]
+        },
+        {
+            "question": "Realizei o cadastro mas não sei se foi efetuado. Vou tentar fazer login e descobrir se foi efetuado ou não!",
+            "answers": ["eagora","ueoqhouve"]
+        },
+        {
+            "question": "Eu gostaria de cancelar a compra de um livro, onde será que está a opção de cancelar compra?",
+            "answers": ["cade"]
+        },
+        {
+            "question": "Continuo clicando em comprar, mas não sei dizer se a compra foi realizada...",
+            "answers": ["ueoqhouve"]
+        },
+        {
+            "question": "Eu gostaria de modificar meu endereço residencial na aplicação web da minha universidade. Para isso cliquei no link 'Configurações', mas nessa opção disponibiliza configurações do sistema. Vou voltar para a tela anterior.",
+            "answers": ["epa"]
+        },
+        {
+            "question": "Digitei minha data de nascimento ao invés da data da minha contratação no cadastro. Melhor voltar e editar o cadastro!",
+            "answers": ["epa"]
+        },
+        {
+            "question": "Não consigo acessar a categoria que procuro. Não vou mais tentar!",
+            "answers": ["cade","desisto"]
+        },
+        {
+            "question": "Toda vez que tento realizar cadastro, o sistema não aceita a senha. Sou obrigado a retornar e fazer tudo novamente...",
+            "answers": ["ueoqhouve"]
+        },
+        {
+            "question": "Opa! Achei que este fosse o botão que realizava a busca. Mas deve-se pressionar enter no teclado para que a ação seja efetuada.",
+            "answers": ["ondeestou"]
+        },
+        {
+            "question": "Fui na opção de listar compras, mas apresenta apenas o histórico de compras e não a lista de compras que pretendo realizar. Quem sabe-se procurando por carrinho encontro a opção desejada.",
+            "answers": ["ondeestou","eagora"]
+        },
+        {
+            "question": "Cliquei nessa palavra-chave, mas ela não mostra nenhuma caixa de texto informando a categoria do produto por exemplo...",
+            "answers": ["oqueeisto"]
+        },
+        {
+            "question": "Não deveria haver uma caixa descrevendo este botão?",
+            "answers": ["oqueeisto"]
+        },
+        {
+            "question": "Ué? O botão de adicionar ao carrinho não funciona, por quê? Não entendo...",
+            "answers": ["naofunciona"]
+        },
+        {
+            "question": "Aff... Não entendo, ao clicar no símbolo que representa meu perfil o mesmo não me leva aos meus dados cadastrais... Vou procurar por ajuda!",
+            "answers": ["naofunciona","socorro"]
+        },
+        {
+            "question": "Não entendo! Não consigo encontrar meu histórico de compra no meu perfil de usuário!",
+            "answers": ["naofunciona","cade"]
+        },
+        {
+            "question": "Quero trocar meu e-mail mas não sei como... Vou procurar na documentação de ajuda!",
+            "answers": ["socorro"]
+        },
+        {
+            "question": "Não consigo encontrar o produto que adicionei ao carrinho... Talvez procurando pelo histórico o encontre!",
+            "answers": ["vaideoutrojeito"]
+        },
+        {
+            "question": "Preciso contatar o suporte... Na opção de contatos há bastante informação Porém, prefiro ir até o final da página Necessito apenas do número de contato",
+            "answers": ["naoobrigado"]
+        },
+        {
+            "question": "Gostaria de realizar novamente a compra de um produto que comprei mês passado, indo no histórico e no produto. Mas talvez haja mais opções deste mesmo produto na procura",
+            "answers": ["naoobrigado"]
+        },
+        {
+            "question": "Gostaria de realizar uma nova compra, porém ao invés de selecionar para 'Nova Compra' preferi voltar a opção de 'busca' novamente",
+            "answers": ["naoobrigado"]
+        },
+        {
+            "question": "Adicionei uma nova compra ao carrinho... Achei que a inclusão tivesse sido efetuada, mas aparentemente não!",
+            "answers": ["paramimestabom"]
+        },
+        {
+            "question": "Troquei a senha da minha conta, e acreditei que a tarefa havia sido realizada com sucesso. Porém mais tarde, descobri que continuava com a senha antiga!",
+            "answers": ["paramimestabom"]
+        },
+        {
+            "question": "Cansei de procurar a opção de logout, e então parei de interagir com a interface",
+            "answers": ["desisto","cade"]
+        },
+        {
+            "question": "Não consigo atualizar meus dados cadastrais, acho melhor parar por aqui...",
+            "answers": ["desisto"]
+        },
+        {
+            "question": "Procurei na tela inicial a opção de me cadastrar no site, mas  não encontro o cadastro... A opção de ajuda, talvez possua informações relacionadas.",
+            "answers": ["cade","socorro"]
+        },
+        {
+            "question": "Selecionei uma procura no site, porém o site não retornou nada... Vou tentar de outra forma!",
+            "answers": ["eagora"]
+        }
+    ]
+}

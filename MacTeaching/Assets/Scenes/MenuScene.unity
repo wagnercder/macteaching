@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 163202878}
   - component: {fileID: 163202877}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: password_text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1117,7 +1117,7 @@ GameObject:
   - component: {fileID: 233910276}
   - component: {fileID: 233910275}
   m_Layer: 5
-  m_Name: Text
+  m_Name: username_text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2073,7 +2073,7 @@ GameObject:
   - component: {fileID: 424337902}
   - component: {fileID: 424337901}
   m_Layer: 5
-  m_Name: Image
+  m_Name: background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2436,7 +2436,7 @@ GameObject:
   - component: {fileID: 572939361}
   - component: {fileID: 572939360}
   m_Layer: 5
-  m_Name: Registe
+  m_Name: Register
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4771,7 +4771,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1582874620
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5160,7 +5160,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1679056760
 RectTransform:
   m_ObjectHideFlags: 0
